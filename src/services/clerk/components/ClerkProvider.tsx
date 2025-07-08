@@ -1,3 +1,5 @@
+"use client";
+
 import { ClerkProvider as OriginalClerkProvider } from "@clerk/nextjs";
 import { dark } from "@clerk/themes";
 import { Suspense } from "react";
